@@ -7,6 +7,8 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Qiwii: Sistem Antrian Online</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta charSet="utf-8" />
         <meta name="description" content="Qiwii: Sistem antrian online untuk berbagai macam sektor industri dan berbagai macam skala usaha" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
